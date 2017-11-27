@@ -1,0 +1,4 @@
+What should be fixed before deploying:
+
+	1. Tab bar strange behavior when keyboard opening
+	2. "Cannot load module react-native-vector-icons" - Android Studio
